@@ -14,7 +14,7 @@ export default function HomePage() {
       {/* Hero / Intro */}
       <section className="mx-auto max-w-6xl px-4 pt-20 pb-12 grid md:grid-cols-2 gap-8 items-center">
         <div>
-          <h1 className="text-3xl md:text-5xl font-bold">Hi, I’m Niroshan 👋</h1>
+          <h1 className="text-3xl md:text-5xl font-bold">Hi, I&apos;m Niroshan 👋</h1>
           <p className="mt-4 text-gray-700">
             Final-year CSE undergraduate at the University of Moratuwa and aspiring software engineer. Former intern at ZeroBeta.
           </p>
@@ -31,7 +31,7 @@ export default function HomePage() {
       {/* About Section */}
       <Section id="about" title="About Me">
         <p className="max-w-3xl text-gray-700">
-          I'm passionate about building end-to-end solutions — from intuitive frontend interfaces to scalable backend systems. Skilled in Java, JavaScript, TypeScript, Spring Boot, Node.js, React, Next.js, MySQL, and MongoDB, I enjoy solving problems and working in Agile teams..
+          I&apos;m passionate about building end-to-end solutions — from intuitive frontend interfaces to scalable backend systems. Skilled in Java, JavaScript, TypeScript, Spring Boot, Node.js, React, Next.js, MySQL, and MongoDB, I enjoy solving problems and working in Agile teams..
         </p>
       </Section>
 
