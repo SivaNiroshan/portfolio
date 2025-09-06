@@ -10,8 +10,8 @@ export default function ProjectCard({ p }: { p: Project }) {
           {p.repo && <a className="underline" href={p.repo} target="_blank">Code</a>}
         </div>
       </div>
-      <p className="mt-2 text-gray-700 text-sm">{p.description}</p>
-      <div className="mt-3 flex flex-wrap gap-2 text-xs text-gray-600">
+      <p className="mt-2 text-[#FFEDDA] text-sm">{p.description}</p>
+      <div className="mt-3 flex flex-wrap gap-2 text-xs text-[#FFEDDA]">
         {p.tech.map(t => (
           <span key={t} className="rounded-full border px-2 py-1">{t}</span>
         ))}
