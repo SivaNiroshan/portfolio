@@ -8,32 +8,38 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    title: "Project 1",
+    title: "Student Management System",
     description:
-      "lorem ipsum dolor sit amet.",
-    tech: ["a", "b", "c", "d"],
+      "Ongoing",
+    tech: ["Java", "Spring Boot", "MySQL", "Spring Data JPA"],
     repo: "https://github.com/yourusername/polygon-dashboard",
   },
   {
-    title: "Project 2",
-    description: "lorem ipsum dolor sit amet",
-    tech: ["Next.js", "Tailwind"],
-    link: "https://niroshan",
-    repo: "https://github.com/yourusername/portfolio",
+    title: "Task Manager Web App",
+    description: "In Future",
+    tech: ["React", "Node.js", "Express", "MongoDB"],
+    repo: "",
   },
   {
-    title: "Project 3",
+    title: "Distributed Task Scheduling System",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    tech: ["Next.js", "TypeScript", "Tailwind", "Node.js"],
-    repo: "https://github.com/yourusername/polygon-dashboar",
+      "In Future",
+    tech: ["Java", "Redis", "PostgreSQL", "Docker", "JWT", "REST API"],
+    repo: "",
   },
   {
-    title: "Project 4",
+    title: "Personal Finance SaaS Platform",
     description:
-      "lore ipsum dolor sit amet, consectetur adipiscing elit.",
-    tech: ["Next.js", "TypeScript", "Tailwind", "Node.js"],
-    repo: "https://github.com/yourusername/polygon-dashboar",
+      "In Future",
+    tech: ["React", "Next.js", "TailwindCSS", "Node.js", "Express", "MongoDB", "Docker", "Cloudinary"],
+    repo: "",
+  },
+  {
+    title: "Decentralized Voting & Governance Platform",
+    description:
+      "In Future",
+    tech: ["Solidity", "Ethereum/Polygon", "Node.js", "React", "PostgreSQL", "Web3.js", "Docker"],
+    repo: "",
   },
   
 ];
