@@ -14,7 +14,7 @@ export default function Navbar() {
           <a className={link} href="#contact">Contact</a>
           <a
             className={link + " border border-[#FFEDDA]"}
-            href="/Niroshan S_ CV.pdf"
+            href="/Sivarajah Niroshan CV.pdf"
             target="_blank"
           >
             Resume

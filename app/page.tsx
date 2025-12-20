@@ -24,7 +24,7 @@ export default function HomePage() {
           </div>
         </div>
         <div className="justify-self-center">
-          <Image src="/my-photo.jpg" alt="Niroshan photo" width={220} height={220}  />
+          <Image src="/my image.jpg" alt="Niroshan photo" width={220} height={220}  />
         </div>
       </section>
 
@@ -51,7 +51,10 @@ export default function HomePage() {
               <span className="text-sm text-[#F2E9E4]">Dec 2024 - May 2025</span>
             </div>
             <p className="mt-2 text-sm text-[#FFEDDA]">
-              Developed and integrated polygon smart contract APIs, enhancing platform functionality and user experience.
+                Built and optimized backend features, including REST APIs, database schemas,
+                and caching layers. Integrated monitoring, logging, and dashboard components to deliver real-time
+                system insights. Collaborated in an Agile environment, contributing to scalable, production-ready
+                services using Java, Spring Boot, MySQL, Redis, Docker, and CI/CD tools.
             </p>
           </li>
         </ul>

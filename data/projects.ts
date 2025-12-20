@@ -9,10 +9,9 @@ export type Project = {
 export const projects: Project[] = [
   {
     title: "Student Management System",
-    description:
-      "Ongoing",
-    tech: ["Java", "Spring Boot", "MySQL", "Spring Data JPA"],
-    repo: "https://github.com/yourusername/polygon-dashboard",
+    description:"A role-based platform for managing students, teachers, courses, and departments, providing a structured system for academic administration.",
+    tech: ["Java", "Spring Boot", "MySQL", "Spring Security (JWT)", "Spring Data JPA"],
+    repo: "https://github.com/SivaNiroshan/student-management-system",
   },
   {
     title: "Task Manager Web App",
