@@ -15,9 +15,9 @@ export const projects: Project[] = [
   },
   {
     title: "Task Manager Web App",
-    description: "In Future",
-    tech: ["React", "Node.js", "Express", "MongoDB"],
-    repo: "",
+    description: "A full-stack task management web app. Supports user authentication and CRUD operations on tasks with a clean, responsive UI for creating, updating, and tracking personal to-dos.",
+    tech: ["React", "TypeScript", "Node.js", "Express", "MongoDB"],
+    repo: "https://github.com/SivaNiroshan/task-manager",
   },
   {
     title: "Distributed Task Scheduling System",
