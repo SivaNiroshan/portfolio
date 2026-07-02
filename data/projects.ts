@@ -19,26 +19,26 @@ export const projects: Project[] = [
     tech: ["React", "TypeScript", "Node.js", "Express", "MongoDB"],
     repo: "https://github.com/SivaNiroshan/task-manager",
   },
-  {
-    title: "Distributed Task Scheduling System",
-    description:
-      "In Future",
-    tech: ["Java", "Redis", "PostgreSQL", "Docker", "JWT", "REST API"],
-    repo: "",
-  },
-  {
-    title: "Personal Finance SaaS Platform",
-    description:
-      "In Future",
-    tech: ["React", "Next.js", "TailwindCSS", "Node.js", "Express", "MongoDB", "Docker", "Cloudinary"],
-    repo: "",
-  },
-  {
-    title: "Decentralized Voting & Governance Platform",
-    description:
-      "In Future",
-    tech: ["Solidity", "Ethereum/Polygon", "Node.js", "React", "PostgreSQL", "Web3.js", "Docker"],
-    repo: "",
-  },
+  // {
+  //   title: "Distributed Task Scheduling System",
+  //   description:
+  //     "In Future",
+  //   tech: ["Java", "Redis", "PostgreSQL", "Docker", "JWT", "REST API"],
+  //   repo: "",
+  // },
+  // {
+  //   title: "Personal Finance SaaS Platform",
+  //   description:
+  //     "In Future",
+  //   tech: ["React", "Next.js", "TailwindCSS", "Node.js", "Express", "MongoDB", "Docker", "Cloudinary"],
+  //   repo: "",
+  // },
+  // {
+  //   title: "Decentralized Voting & Governance Platform",
+  //   description:
+  //     "In Future",
+  //   tech: ["Solidity", "Ethereum/Polygon", "Node.js", "React", "PostgreSQL", "Web3.js", "Docker"],
+  //   repo: "",
+  // },
   
 ];

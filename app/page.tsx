@@ -34,7 +34,7 @@ export default function HomePage() {
                 <ArrowUpRight size={18} />
               </a>
               <a
-                href="/Sivarajah Niroshan CV.pdf"
+                href="/Niroshan Sivarajah CV.pdf"
                 target="_blank"
                 className="inline-flex items-center gap-2 rounded-lg border border-[#FFEDDA]/40 px-5 py-3 font-semibold text-[#FFEDDA] transition hover:border-[#FFEDDA] hover:bg-white/10"
               >
@@ -74,7 +74,7 @@ export default function HomePage() {
               <div className="relative aspect-[4/5] overflow-hidden rounded-[1.5rem]">
                 <Image
                   src="/img1.jpg"
-                  alt="Sivarajah Niroshan"
+                  alt="Niroshan Sivarajah"
                   fill
                   priority
                   sizes="(min-width: 768px) 360px, 86vw"
